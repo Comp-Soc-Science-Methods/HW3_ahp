@@ -1,2 +1,2 @@
-# HW3_ahp
-This is the third homework assignment for DACSS 690C. You can access my code here
+# Homework 3B
+This is the third homework assignment for DACSS 690C. You can access my code [here](https://comp-soc-science-methods.github.io/HW3_ahp/)
